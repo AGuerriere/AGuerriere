@@ -1,8 +1,7 @@
-## About me
-- 👋 Hi, I’m Antonio Guerriere
-- 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning node and express
-- 💞️ I’m looking to collaborate on new and interesting projects
+## Hi 👋, I’m Antonio Guerriere
+- 👨‍💻 I’m interested in full stack web development 
+- 🌴 I’m currently learning node and express
+- 🤝 I’m looking to collaborate on new and interesting projects
 - 📫 Reach me on linkedin at https://www.linkedin.com/in/antonioguerriere/
 
 
