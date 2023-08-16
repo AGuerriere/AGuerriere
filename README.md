@@ -1,6 +1,6 @@
 ## Hi 👋, I’m Antonio Guerriere
-- 👨‍💻 I’m interested in full stack web development 
-- 🌴 I’m currently learning node and express
+- 👨‍💻 I’m interested in frontend web development 
+- 🌴 I currently work with Javascript, HTML, CSS, Laravel, Python, React and more
 - 🤝 I’m looking to collaborate on new and interesting projects
 - 📫 Reach me on <a href="https://www.linkedin.com/in/antonioguerriere/">Linkedin</a>
 
